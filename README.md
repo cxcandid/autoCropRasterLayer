@@ -34,10 +34,11 @@ The data source for the raster base map to be cropped is specified in the Projec
 By default, it refers to the Project Variable `Basemap_hidpi`, which contains an **XML** description of the **GDAL** data source.
 
 The following data sources are available as project variables:
-Basemap_hidpi (default)
-Basemap_gray
-Basemap_ortho
-Basemap_OSM
+
+- Basemap_hidpi (default)
+- Basemap_gray
+- Basemap_ortho
+- Basemap_OSM
 
 Further **GDAL** XML data source descriptions can be found here: https://github.com/OSGeo/gdal/tree/master/frmts/wms
 
