@@ -54,6 +54,6 @@ Depending on the Computer speed and the Internet connection, the waiting time mu
 This can be easily recognized by the fact that not all images are cropped during an Atlas Export.
 
 ## Credit ##
-As always, thanks go to Even Rouault and all the QGIS experts.
+As always, I would like to thank Even Rouault and all the tireless QGIS experts.
 
 ![autoCropRasterLayer](https://github.com/user-attachments/assets/414f7176-c179-4801-985f-773e77ee1f34)
